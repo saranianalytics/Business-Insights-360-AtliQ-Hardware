@@ -71,5 +71,5 @@ The **BI 360 dashboard** transforms raw data into actionable insights by integra
 This project demonstrates how Business Intelligence can help organizations move from **reactive reporting to proactive, data-driven decision-making**, supporting sustainable business growth.
 
 ## 🔗𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤:
- 👉 https://lnkd.in/dwDPDPdc
+ 👉 https://app.powerbi.com/view?r=eyJrIjoiZGU4OWM2NmMtZjI4My00Y2M3LWJmNDItZWZlYzk3M2Y0NzQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
