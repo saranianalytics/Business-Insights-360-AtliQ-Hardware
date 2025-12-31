@@ -70,4 +70,6 @@ The BI 360 solution includes the following views:
 The **BI 360 dashboard** transforms raw data into actionable insights by integrating Finance, Sales, Marketing, Supply Chain, and Executive perspectives into a single platform.
 This project demonstrates how Business Intelligence can help organizations move from **reactive reporting to proactive, data-driven decision-making**, supporting sustainable business growth.
 
+## 🔗𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐋𝐢𝐧𝐤:
+ 👉 https://lnkd.in/dwDPDPdc
 
